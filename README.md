@@ -22,3 +22,5 @@ DATASET 2: edges.csv
 •from, the sender in an interaction.
 •to, the receiver in an interaction.
 •singletimes, speaking times of a user in one post. 
+
+* Also, the freq.csv provides the frequency words appear in the topics.
